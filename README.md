@@ -1,7 +1,7 @@
 # Travel-Blog-Website
-This is a travel blog website for people like you. Made with Javascript, HTML, CSS &amp; Bootstrap effects. It is the blog website for travel which contains the informative description of travel places with attractive photo gallery!
+This is a travel blog website for people like you. Made with Javascript, HTML, CSS &amp; Bootstrap effects. It is a blogging website for travelling which contains the informative description of travel places with attractive photo gallery!
 
-Our travel guides take you off the beaten paths, to our favorite secret spots, design destinations, and the places to be.We love fashion, design, great food and even better coffee, and we show you the places that do the same.
+Our travel guides take you off to the beaten paths, to our favorite spots, choose beautiful destination for you. We love fashion, design, good food and delicious coffee. We offer a happy journey to people as we have promised.
 
 # Here is the quick demo of the website :
 1) Slider with introduction :
